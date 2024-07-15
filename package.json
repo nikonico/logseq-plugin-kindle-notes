@@ -1,5 +1,5 @@
 {
-  "name": "kindle-notes",
+  "name": "kindle-clippings",
   "version": "1.0",
   "description": "Starter Plugin",
   "main": "dist/index.html",
@@ -18,8 +18,8 @@
     "fs": "^0.0.1-security"
   },
   "logseq": {
-    "id": "kindle-notes",
-    "title": "kindle-notes",
+    "id": "kindle-clippings",
+    "title": "kindle-clippings",
     "icon": "./icon.png"
   },
   "devDependencies": {
